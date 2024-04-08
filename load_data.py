@@ -20,13 +20,17 @@ def load_data(file_path):
 
     return column_arrays
 
-
-
-if __name__ == "__main__":
-    data = load_data('activity.csv')
+#def sort_data(data):
     power_W = data['PowerOriginal']
-    print(power_W)
     sorted_power_W = bubble_sort(power_W)
-    print(sorted_power_W[::-1])
-  
+    return sorted_power_W
+
+
+
+data = load_data('activity.csv')
+power_W = data['PowerOriginal']
+print(power_W)
+sorted_power_W = bubble_sort(power_W)
+print(sorted_power_W[::-1])
+
 
