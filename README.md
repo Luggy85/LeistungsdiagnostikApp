@@ -3,7 +3,7 @@
 ## Vorbereitungen für das Programm
 
 1. Ordner erstellen
-2. die gegeben Datein: ```load_data.py``` und ```activit.csv``` herunterladen und in den Ordner einfügen
+2. die gegeben Datein: ```load_data.py``` und ```activity.csv``` herunterladen und in den Ordner einfügen
 3. einen Sortier-Algorithmus erstellen
 4. .gitignore Datei erstellen um ünnotige Datein nicht hochzuladen
 4. virtuelle Umgebung erstellen und benötigte Bibliotheken herunterladen
