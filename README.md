@@ -3,7 +3,7 @@
 ## Vorbereitungen für das Programm
 
 1. Ordner erstellen
-2. die gegeben Datein: load_data.py und activit.csv herunterladen und in den Ordner einfügen
+2. die gegeben Datein: ```load_data.py``` und ```activit.csv``` herunterladen und in den Ordner einfügen
 3. einen Sortier-Algorithmus erstellen
 4. .gitignore Datei erstellen um ünnotige Datein nicht hochzuladen
 4. virtuelle Umgebung erstellen und benötigte Bibliotheken herunterladen
@@ -13,11 +13,11 @@
 Bezogen auf die Erstellung auf dem MacBook:
 Die virtuelle Umgebung kann mithilfe der Kommandozeile erstellt werden, hierzu muss man den folgenden Befehl eingeben:
 
-python3 -m venv venv
+```python3 -m venv venv```
 
 Anschließend muss diese Virtuelle Umgebung noch aktiviert werden, dies erfolgt durch den Befehl:
 
-source /venv/bin/activate
+```source /venv/bin/activate```
 
 Nun können innerhalb der virtuellen Umgebung alle Bibliotheken die gebraucht werden installiert werden ohne diese direkt auf dem PC zu haben.
 
