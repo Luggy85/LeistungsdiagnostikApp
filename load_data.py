@@ -20,11 +20,6 @@ def load_data(file_path):
 
     return column_arrays
 
-#def sort_data(data):
-    power_W = data['PowerOriginal']
-    sorted_power_W = bubble_sort(power_W)
-    return sorted_power_W
-
 
 
 data = load_data('activity.csv')
