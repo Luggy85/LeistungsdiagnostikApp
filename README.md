@@ -5,7 +5,7 @@
 1. Ordner erstellen
 2. die gegeben Datein: ```load_data.py``` und ```activity.csv``` herunterladen und in den Ordner einfügen
 3. einen Sortier-Algorithmus erstellen
-4. .gitignore Datei erstellen um ünnotige Datein nicht hochzuladen
+4. .gitignore Datei erstellen um unnötige Datein nicht hochzuladen
 4. virtuelle Umgebung erstellen und benötigte Bibliotheken herunterladen
 5. Hauptprogramm schreiben um Daten grafisch darzustellen
 
